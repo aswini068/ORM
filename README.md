@@ -1,11 +1,7 @@
 
 # Ex02 Django ORM Web Application
 ## Date: 25.09.24
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 7a24ddf3e3e3f0ab9aee44c45d00c937f491f127
 ## AIM
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
 
@@ -27,10 +23,7 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
-<<<<<<< HEAD
 
-=======
->>>>>>> 7a24ddf3e3e3f0ab9aee44c45d00c937f491f127
 ```
 admin.py
 from django.contrib import admin
@@ -52,18 +45,11 @@ class BankloanAdmin(admin.ModelAdmin):
     list_display=('Name','Gender','Token_no','Amount','Phone')
 
 ```
-<<<<<<< HEAD
-
-=======
->>>>>>> 7a24ddf3e3e3f0ab9aee44c45d00c937f491f127
 
 ## OUTPUT
 
 ![alt text](<Screenshot (156).png>)
-<<<<<<< HEAD
-=======
 
->>>>>>> 7a24ddf3e3e3f0ab9aee44c45d00c937f491f127
 
 
 ## RESULT
