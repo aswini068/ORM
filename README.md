@@ -3,8 +3,11 @@
 
 ## Date: 25.09.24
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 6ef01f4cdf6dbd7b2a1aa1bc6f7d912a56ec68d2
 ## AIM
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
 
@@ -25,8 +28,12 @@ Enter the code for admin.py and models.py
 ### STEP 4:
 Execute Django admin and create details for 10 books
 
+<<<<<<< HEAD
 ## PROGRAm
 
+=======
+## PROGRAM
+>>>>>>> 6ef01f4cdf6dbd7b2a1aa1bc6f7d912a56ec68d2
 
 ```
 admin.py
@@ -53,6 +60,11 @@ class BankloanAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 ![alt text](<Screenshot (156).png>)
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 6ef01f4cdf6dbd7b2a1aa1bc6f7d912a56ec68d2
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
