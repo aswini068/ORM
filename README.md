@@ -1,7 +1,7 @@
 
 # Ex03 Django ORM Web Application
 
-## Date: 25.09.24
+## Date: 25.10.24
 
 
 ## AIM
